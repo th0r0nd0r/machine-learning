@@ -27,8 +27,10 @@ Output: y # R (response, dependent variable)
 
 Goal:
 find a function f : R^d => R such that
-y = f(x;w) for the data pair (x,y).
+y ~= f(x;w) for the data pair (x,y).
 f(x;w) is called a regression function. It's free parameters are w.
 
 Definition of linear regression:
 A regression method is called linear if the prediction f is a linear function of the unknown parameters w.
+
+Note: a linear regression func. doesn't have to be linear in terms of the covariates (x), it just means the weights (w) have to map linearly to the outputs (y).
