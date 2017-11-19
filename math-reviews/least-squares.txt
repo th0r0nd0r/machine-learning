@@ -1,3 +1,6 @@
 Residual: the difference in the output for a given input from the expected output (based on the regression)
 
 Least Squares: sum up the squared residuals of all points, try to find a regression that minimizes this number.
+
+Why square residuals, not use absolute value?
+- squaring the #s gives more weight to numbers farther away from the tested regression.
