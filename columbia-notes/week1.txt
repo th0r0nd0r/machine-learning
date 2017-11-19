@@ -1,1 +1,4 @@
 Linear Regression
+
+Old faithful:
+- come up with a way to predict next eruption
