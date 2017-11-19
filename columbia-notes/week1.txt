@@ -20,3 +20,6 @@ Expanding to more dimensions (3, depends on 2 inputs):
 Generalized function:
 
 Note: he writes the allowed values of the input as R^d.  The d just means it's the domain of the function (the set of input values for which the function is defined)
+
+Data:
+Input: x E R^d (measurements, covariates, features, independent variables)
