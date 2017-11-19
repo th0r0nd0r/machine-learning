@@ -26,4 +26,5 @@ Input: x E R^d (measurements, covariates, features, independent variables)
 Output: y # R (response, dependent variable)
 
 Goal:
-find a function f : R^d => R such that y = f(x;w)
+find a function f : R^d => R such that
+y = f(x;w) for the data pair (x,y).
