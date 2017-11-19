@@ -1,0 +1,1 @@
+Residual: the difference in the output for a given input from the expected output (based on the regression)
