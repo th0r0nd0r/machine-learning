@@ -6,3 +6,5 @@ Ways to solve:
 - get pairs of inputs/outputs
     - how long geyser erupted for (input)
     - how long waited until next eruption (output)
+
+come up with a simple function that takes an input and spits out the predicted output
