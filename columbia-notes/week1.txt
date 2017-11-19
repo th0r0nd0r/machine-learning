@@ -8,3 +8,6 @@ Ways to solve:
     - how long waited until next eruption (output)
 
 come up with a simple function that takes an input and spits out the predicted output
+
+ex: (wait time) = w0 + (last duration) * w1
+[y = mx + b]
