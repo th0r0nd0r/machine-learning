@@ -23,4 +23,7 @@ Note: he writes the allowed values of the input as R^d.  The d just means it's t
 
 Data:
 Input: x E R^d (measurements, covariates, features, independent variables)
-Output: y # R (resonse, dependent variable)
+Output: y # R (response, dependent variable)
+
+Goal:
+find a function f : R^d => R such that y = f(x;w)
