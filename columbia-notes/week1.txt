@@ -11,3 +11,7 @@ come up with a simple function that takes an input and spits out the predicted o
 
 ex: (wait time) = w0 + (last duration) * w1
 [y = mx + b]
+
+Expanding to more dimensions (3, depends on 2 inputs):
+
+(output) = w0 + (input 1)*w1 + (input 2)*w2
